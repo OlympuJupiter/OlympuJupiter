@@ -1,15 +1,6 @@
-## Hi there 👋, I'm Anatoli Morozov
-I am representing my 10+ years of fruitful experience on Software and Blockchain and tagged as an expert in this sector.
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Leon%20Devis&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20|%20Blockchain%20Engineer&descAlignY=51&descAlign=62)
 
-I am a complete package as a specialist on Software and Blockchain in both off and on page skills.
+![svg](https://raw.githubusercontent.com/yoshi389111/github-profile-3d-contrib/main/docs/demo/profile-night-rainbow.svg)
 
-Specialist
-* Angular, React, Next, Vue, Nuxt, Meteor, Svelte, React Native
-* Laravel, Symphony, Codeignitor, Yii, PHP, ASP, .NET
-* Node.js, Express.js, Nest.js
-* Bootstrap, Material-UI, Ant Design, Tailwind CSS
-* Python, Django, Java, C#
-* MySQL, PostgreSQL, MongoDB, MariaDB, GraphQL
-* AWS, DigitalOcean, StackCP, Netlify
-* Wordpress, Joomla, Shopify, Ecommerce
-* Blockchain, Solidity, Web3, Smart contract, Dapp, Defi, NFT, NFT marketplace, Opensea
+<details open><summary>Compact display</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.compact.svg" alt=""></img></details>
+      <details><summary>Detailed display</summary><img src="https://github.com/lowlighter/metrics/blob/examples/metrics.plugin.achievements.svg" alt=""></img></details>
